@@ -12,7 +12,7 @@ provider "google" {
 
   credentials = file("/home/vagrant/gcpkey.json")
 
-  project = "DEFINIR"
+  project = "Cloud e DevOps"
   region  = "us-west1"
   zone    = "us-west1-b"
 }
