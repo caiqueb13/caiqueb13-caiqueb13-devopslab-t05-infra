@@ -18,7 +18,7 @@ provider "google" {
 }
 
 provider "google-beta" {
-  project = "DEFINIR"
+  project = "cloud-e-devops"
   region  = "us-west1"
   zone    = "us-west1-b"
 }
